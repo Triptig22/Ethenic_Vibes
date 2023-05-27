@@ -11,8 +11,8 @@ export function Footer () {
           <Image 
             src="/logo.svg"
             alt="logo"
-            width={100}
-            height={100}
+            width={200}
+            height={200}
             style={{ objectFit: 'contain' }}
           />
         </Container>
@@ -79,7 +79,7 @@ export function Footer () {
               <Styles.List>
                 <li>
                   <Link href="">
-                    <span>Florenza</span><br />
+                    <span>Ethenic Vibes</span><br />
                     <span>P.O. Box 147 2546 Sociosqu Rd.</span><br />
                     <span>Bethlehem Utah 02913</span>
                   </Link>
@@ -120,7 +120,7 @@ export function Footer () {
       <Container size="lg">
         <Box marginTop={3} marginBottom={3}>
           <Typography size="xsm">
-            © Floreza {new Date().getFullYear()}. Powered with 🧡  by <a target="_blank" rel="noreferrer" href="https://github.com/censuradho">Censuradho</a>.</Typography>
+            © Ethenic Vibes {new Date().getFullYear()}. Powered with 🧡  by <a target="_blank" rel="noreferrer" href="https://github.com/Triptig22/Ethenic_Vibes">Trapti</a>.</Typography>
         </Box>
       </Container>
     </>
