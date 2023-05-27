@@ -24,7 +24,7 @@ export function Header () {
         />
       </Box>
       <Link href="/">
-        <Image src="/logo.svg" alt="logo" width={70} height={70} style={{ objectFit: 'contain' }} />
+        <Image src="/logo.svg" alt="logo" width={180} height={180} style={{ objectFit: 'contain' }} />
       </Link>
 
       <Box alignItems="center" gap={0.5}>
