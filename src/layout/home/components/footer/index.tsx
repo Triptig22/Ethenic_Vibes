@@ -120,7 +120,7 @@ export function Footer () {
       <Container size="lg">
         <Box marginTop={3} marginBottom={3}>
           <Typography size="xsm">
-            © Ethenic Vibes {new Date().getFullYear()}. Powered with 🧡  by <a target="_blank" rel="noreferrer" href="https://github.com/Triptig22/Ethenic_Vibes">Trapti</a>.</Typography>
+            © Ethenic Vibes {new Date().getFullYear()}. Powered with 🧡  by <a target="_blank" rel="noreferrer" href="https://github.com/Triptig22/Ethenic_Vibes">Tripti Gour</a>.</Typography>
         </Box>
       </Container>
     </>
